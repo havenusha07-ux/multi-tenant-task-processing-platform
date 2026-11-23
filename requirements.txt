@@ -1,0 +1,1 @@
+fastapi>=0.110\nuvicorn>=0.27\npytest>=8.0\n
